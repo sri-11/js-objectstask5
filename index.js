@@ -1,4 +1,4 @@
-//-----------------arrays and objects-----------------------//
+//----------- objects creation with braces-----------------------//
 
 
 const ob={
